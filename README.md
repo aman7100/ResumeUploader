@@ -1,2 +1,2 @@
 # ResumeUploader
-Switch to main branch in order to view the project :)
+Switch to master branch in order to view the project :)
